@@ -5,8 +5,11 @@ int main() {
     for(int i=1;i<=10;i++)
     {
         printf("%d\n",i);
+
         sum+=i;
+
     }
+    
     printf("rayhancode %d\n", sum);
     return 0;
 }
